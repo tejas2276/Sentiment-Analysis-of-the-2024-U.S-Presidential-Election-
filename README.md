@@ -2,7 +2,7 @@ This ReadMe file describes the purpose of each notebook:
 
 1. Experimentation Local Approach: Conducts the ensemble effect check, examines the distribution of labels/classes in each partition, and performs the size-up experiment.
    
-2.Prediction: Implements the prediction of sentiments for the processed Reddit comments
+ 2. Prediction: Implements the prediction of sentiments for the processed Reddit comments
    
 3. Reddit Comments Preprocessing: Implements the preprocessing of Reddit comments related to the 2024 U.S. Presidential Election
 
